@@ -42,9 +42,9 @@ h3{
 }
 
 .top-cloud {
-  position: absolute;
-  right: 600px;
-  top: 50px;
+  position: relative;
+  left: 300px;
+  
 }
 .center{
   margin-left: auto;
